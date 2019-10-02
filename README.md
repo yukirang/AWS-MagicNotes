@@ -1,3 +1,3 @@
 # AWS-MagicNotes
 
-Serverless Full-Stack App for Intersting Notes Taking
+Serverless Full-Stack App for Notes Taking
